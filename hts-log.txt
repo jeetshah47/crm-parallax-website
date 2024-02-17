@@ -1,0 +1,207 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 16 Feb 2024 12:14:16 at http://https://themebubble.com/demo/webify/creative/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://themebubble.com/demo/webify/creative/ -O "/home/jeets/websites/crm-parallax-website" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:15:27	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://themebubble.com/demo/webify/creative/)
+12:15:28	Warning: 	Moved Permanently for cdn.jsdelivr.net/robots.txt
+12:15:28	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.jsdelivr.net/robots.txt and https://cdn.jsdelivr.net/robots.txt
+12:15:28	Warning: 	Warning moved treated for cdn.jsdelivr.net/robots.txt (real one is https://cdn.jsdelivr.net/robots.txt)
+12:15:28	Warning: 	Moved Permanently for cdn.jsdelivr.net/
+12:15:28	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.jsdelivr.net/ and https://cdn.jsdelivr.net/
+12:15:28	Warning: 	File has moved from cdn.jsdelivr.net/ to https://cdn.jsdelivr.net/
+12:15:29	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:17:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/category/lifestyle/ (from https://themebubble.com/demo/webify/creative/)
+12:17:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:17:28	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=574
+12:17:28	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=574 to https://themebubble.com/demo/webify/creative/about/
+12:17:28	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=117
+12:17:28	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=117 to https://themebubble.com/demo/webify/creative/blog/
+12:17:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/pages/497 (from https://themebubble.com/demo/webify/creative/contact/)
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=497
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=497 to https://themebubble.com/demo/webify/creative/contact/
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=362
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=362 to https://themebubble.com/demo/webify/creative/portfolio/adios-concept-design/
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=359
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=359 to https://themebubble.com/demo/webify/creative/portfolio/sony-camera-website/
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=356
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=356 to https://themebubble.com/demo/webify/creative/portfolio/save-the-world/
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=353
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=353 to https://themebubble.com/demo/webify/creative/portfolio/marketing-for-jrink/
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=350
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=350 to https://themebubble.com/demo/webify/creative/portfolio/planet-fitness/
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=235
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=235 to https://themebubble.com/demo/webify/creative/portfolio/identity-design-for-fliplr/
+12:17:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=215
+12:17:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=215 to https://themebubble.com/demo/webify/creative/2019/04/15/the-thin-blur-line-between-corporate-lifestyle-other-things/
+12:18:16	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=214
+12:18:16	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=214 to https://themebubble.com/demo/webify/creative/2019/04/15/halfway-though-a-decade-more/
+12:18:16	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=213
+12:18:16	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=213 to https://themebubble.com/demo/webify/creative/2019/04/15/how-to-live-a-balanced-life-like-everyone/
+12:18:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemebubble.com%2Fdemo%2Fwebify%2Fcreative%2F2019%2F04%2F15%2Fhow-to-live-a-balanced-life-like-everyone%2F&format=xml (from https://themebubble.com/demo/webify/creative/2019/04/15/how-to-live-a-balanced-life-like-everyone/)
+12:18:16	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:18:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/212 (from https://themebubble.com/demo/webify/creative/2019/04/15/there-will-be-a-time-when-it-all-goes-against-you/)
+12:18:16	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=212
+12:18:16	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=212 to https://themebubble.com/demo/webify/creative/2019/04/15/there-will-be-a-time-when-it-all-goes-against-you/
+12:18:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemebubble.com%2Fdemo%2Fwebify%2Fcreative%2F2019%2F04%2F15%2Fthere-will-be-a-time-when-it-all-goes-against-you%2F (from https://themebubble.com/demo/webify/creative/2019/04/15/there-will-be-a-time-when-it-all-goes-against-you/)
+12:18:16	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=211
+12:18:16	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=211 to https://themebubble.com/demo/webify/creative/2019/04/15/smashing-dreams-more-of-it/
+12:18:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/210 (from https://themebubble.com/demo/webify/creative/2019/04/15/the-life-hack-you-might-think-you-know/)
+12:18:22	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=210
+12:18:22	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=210 to https://themebubble.com/demo/webify/creative/2019/04/15/the-life-hack-you-might-think-you-know/
+12:18:22	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=208
+12:18:22	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=208 to https://themebubble.com/demo/webify/creative/2019/04/15/sublime-art-of-not-worrying-at-all/
+12:18:22	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=206
+12:18:22	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=206 to https://themebubble.com/demo/webify/creative/2019/04/15/a-brief-history-of-everything-in-between/
+12:18:22	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=204
+12:18:22	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=204 to https://themebubble.com/demo/webify/creative/2019/04/15/what-to-expect-in-a-changed-lifestyle/
+12:18:26	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/blog/page/1/
+12:18:26	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/blog/page/1/ to https://themebubble.com/demo/webify/creative/blog/
+12:18:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/tag/workspace/feed/ (from https://themebubble.com/demo/webify/creative/tag/workspace/)
+12:18:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/tags/6 (from https://themebubble.com/demo/webify/creative/tag/workspace/)
+12:18:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/category/lifestyle/page/2/ (from https://themebubble.com/demo/webify/creative/category/lifestyle/)
+12:18:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/categories/3 (from https://themebubble.com/demo/webify/creative/category/lifestyle/)
+12:18:34	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/author/developmentthemebubble/page/1/
+12:18:34	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/author/developmentthemebubble/page/1/ to https://themebubble.com/demo/webify/creative/author/developmentthemebubble/
+12:18:34	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=202
+12:18:34	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=202 to https://themebubble.com/demo/webify/creative/2019/04/15/the-future-of-south-lies-in-secret/
+12:18:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/2019/04/13/hello/feed/ (from https://themebubble.com/demo/webify/creative/2019/04/13/hello/)
+12:18:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/103 (from https://themebubble.com/demo/webify/creative/2019/04/13/hello/)
+12:18:35	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=103
+12:18:35	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=103 to https://themebubble.com/demo/webify/creative/2019/04/13/hello/
+12:18:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemebubble.com%2Fdemo%2Fwebify%2Fcreative%2F2019%2F04%2F13%2Fhello%2F (from https://themebubble.com/demo/webify/creative/2019/04/13/hello/)
+12:18:39	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/tag/food/page/1/
+12:18:39	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/tag/food/page/1/ to https://themebubble.com/demo/webify/creative/tag/food/
+12:18:39	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/tag/fun/page/1/
+12:18:39	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/tag/fun/page/1/ to https://themebubble.com/demo/webify/creative/tag/fun/
+12:18:39	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/tag/office/page/1/
+12:18:39	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/tag/office/page/1/ to https://themebubble.com/demo/webify/creative/tag/office/
+12:18:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/tag/workspace/page/1/ (from https://themebubble.com/demo/webify/creative/tag/workspace/page/2/)
+12:18:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/tags/6 (from https://themebubble.com/demo/webify/creative/tag/workspace/)
+12:18:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/categories/3 (from https://themebubble.com/demo/webify/creative/category/lifestyle/)
+12:18:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/2019/04/13/hello/feed/ (from https://themebubble.com/demo/webify/creative/2019/04/13/hello/)
+12:18:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/tag/workspace/page/1/ (from https://themebubble.com/demo/webify/creative/tag/workspace/page/2/)
+12:18:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/category/lifestyle/page/1/ (from https://themebubble.com/demo/webify/creative/category/lifestyle/page/2/)
+12:18:44	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/2019/04/13/hello/feed/ (from https://themebubble.com/demo/webify/creative/2019/04/13/hello/)
+12:18:44	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/tag/workspace/page/1/ (from https://themebubble.com/demo/webify/creative/tag/workspace/page/2/)
+12:18:44	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/category/lifestyle/page/1/
+12:18:44	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/category/lifestyle/page/1/ to https://themebubble.com/demo/webify/creative/category/lifestyle/
+12:18:44	Warning: 	HTML file (79254 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/feed/
+12:18:44	Warning: 	HTML file (1996 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/comments/feed/
+12:18:44	Warning: 	HTML file (174805 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/wp-json/
+12:19:08	Warning: 	HTML file (1550 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/the-thin-blur-line-between-corporate-lifestyle-other-things/feed/
+12:19:10	Warning: 	HTML file (79328 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/author/developmentthemebubble/feed/
+12:19:11	Warning: 	HTML file (1397 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/halfway-though-a-decade-more/feed/
+12:19:12	Warning: 	HTML file (914 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/how-to-live-a-balanced-life-like-everyone/feed/
+12:19:14	Warning: 	HTML file (938 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/there-will-be-a-time-when-it-all-goes-against-you/feed/
+12:19:16	Warning: 	HTML file (876 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/smashing-dreams-more-of-it/feed/
+12:19:16	Warning: 	HTML file (905 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/the-life-hack-you-might-think-you-know/feed/
+12:19:18	Warning: 	HTML file (895 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/sublime-art-of-not-worrying-at-all/feed/
+12:19:19	Warning: 	HTML file (911 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/a-brief-history-of-everything-in-between/feed/
+12:19:19	Warning: 	HTML file (902 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/what-to-expect-in-a-changed-lifestyle/feed/
+12:19:21	Warning: 	HTML file (616 bytes) retransferred due to lack of cache: cdn.jsdelivr.net/
+12:19:22	Warning: 	Moved Permanently for cdn.jsdelivr.net/
+12:19:22	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.jsdelivr.net/ and https://cdn.jsdelivr.net/
+12:19:22	Warning: 	File has moved from cdn.jsdelivr.net/ to https://cdn.jsdelivr.net/
+12:19:22	Warning: 	HTML file (79295 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/food/feed/
+12:19:22	Warning: 	HTML file (79292 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/fun/feed/
+12:19:25	Warning: 	HTML file (79301 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/office/feed/
+12:19:27	Warning: 	HTML file (79315 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/category/lifestyle/feed/
+12:19:28	Warning: 	HTML file (893 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/the-future-of-south-lies-in-secret/feed/
+12:19:44	Warning: 	HTML file (79310 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/workspace/feed/
+12:19:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/themes/webify/assets/img/error-bg.jpg (from https://themebubble.com/demo/webify/creative/)
+12:19:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/cache/busting/8/demo/webify/creative/wp-includes/js/jquery/jquery.min-3.6.0.js (from https://themebubble.com/demo/webify/creative/)
+12:19:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:19:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-includes/wlwmanifest.xml (from https://themebubble.com/demo/webify/creative/)
+12:19:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/themes/webify/assets/img/logo-dark.png (from https://themebubble.com/demo/webify/creative/)
+12:20:02	Warning: 	HTML file (48328 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/portfolio/adios-concept-design/
+12:20:05	Warning: 	HTML file (48750 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/portfolio/sony-camera-website/
+12:20:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/portfolio/sony-camera-website/ (from https://themebubble.com/demo/webify/creative/)
+12:20:07	Warning: 	HTML file (48729 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/portfolio/planet-fitness/
+12:20:10	Warning: 	HTML file (48216 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/portfolio/identity-design-for-fliplr/
+12:20:12	Warning: 	HTML file (48750 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/portfolio/sony-camera-website/
+12:20:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/hcfwew744z4-570x392.jpg (from https://themebubble.com/demo/webify/creative/)
+12:20:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:20:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/cache/min/8/59f3e7842e271062a01be4842bb564d2.css (from https://themebubble.com/demo/webify/creative/about/)
+12:20:13	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/?p=574
+12:20:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/?p=574 (from https://themebubble.com/demo/webify/creative/about/)
+12:20:15	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/?p=574
+12:20:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/uploads/sites/8/2019/05/sign.png (from https://themebubble.com/demo/webify/creative/about/)
+12:20:16	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/?p=117
+12:20:18	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=117
+12:20:18	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=117 to https://themebubble.com/demo/webify/creative/blog/
+12:20:18	Warning: 	HTML file (51358 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/15/the-life-hack-you-might-think-you-know/
+12:20:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/cache/min/8/9f0fb3498e7a0bc88ebd7443eb07367d.css (from https://themebubble.com/demo/webify/creative/contact/)
+12:20:21	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/wp-content/uploads/2019/03/1_c3smUiyEjXRXkPBCfLbwwA.gif (from https://themebubble.com/demo/webify/creative/portfolio/adios-concept-design/)
+12:20:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/wp-content/uploads/2019/03/b970c967729449.5b98f6beba54a.jpg (from https://themebubble.com/demo/webify/creative/portfolio/adios-concept-design/)
+12:20:22	Warning: 	Retry after error -4 (No data (connection closed)) at link themebubble.com/demo/webify/wp-content/uploads/2019/03/c.png (from https://themebubble.com/demo/webify/creative/portfolio/adios-concept-design/)
+12:20:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/wp-content/uploads/2019/03/03bdc967729449.5bcdb8c6d1b87.jpg (from https://themebubble.com/demo/webify/creative/portfolio/adios-concept-design/)
+12:20:23	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/g83y6do219w.jpg (from https://themebubble.com/demo/webify/creative/portfolio/sony-camera-website/)
+12:20:23	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/w6onivdcfn0.jpg (from https://themebubble.com/demo/webify/creative/portfolio/save-the-world/)
+12:20:23	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/aiony-haust-783975-unsplash-1.jpg (from https://themebubble.com/demo/webify/creative/portfolio/planet-fitness/)
+12:20:23	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/p3fh6ya5evi.jpg (from https://themebubble.com/demo/webify/creative/portfolio/identity-design-for-fliplr/)
+12:20:23	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/d2phv1q00pk.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/the-thin-blur-line-between-corporate-lifestyle-other-things/)
+12:20:26	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/hcfwew744z4.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/halfway-though-a-decade-more/)
+12:20:28	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/5qgiuubxkwm.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/how-to-live-a-balanced-life-like-everyone/)
+12:20:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:20:32	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/qxyjgownc_i.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/there-will-be-a-time-when-it-all-goes-against-you/)
+12:20:33	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/asahnlc0vhq.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/smashing-dreams-more-of-it/)
+12:20:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/211 (from https://themebubble.com/demo/webify/creative/2019/04/15/smashing-dreams-more-of-it/)
+12:20:34	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/hxihfs_duk.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/the-life-hack-you-might-think-you-know/)
+12:20:34	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/tzz4xrrdpue.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/sublime-art-of-not-worrying-at-all/)
+12:20:35	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/8adn4itl-lu.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/a-brief-history-of-everything-in-between/)
+12:20:36	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/l7ewhkq1b2s.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/what-to-expect-in-a-changed-lifestyle/)
+12:20:38	Warning: 	HTML file (50584 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/13/hello/
+12:20:41	Warning: 	HTML file (37287 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/food/page/2/
+12:20:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/tag/food/page/2/ (from https://themebubble.com/demo/webify/creative/tag/food/)
+12:20:42	Warning: 	HTML file (37287 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/food/page/2/
+12:20:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/tags/7 (from https://themebubble.com/demo/webify/creative/tag/food/)
+12:20:43	Warning: 	HTML file (37319 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/office/page/2/
+12:20:44	Warning: 	HTML file (37362 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/workspace/page/2/
+12:20:45	Warning: 	HTML file (863 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/author/developmentthemebubble/page/1/
+12:20:46	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/author/developmentthemebubble/page/1/
+12:20:46	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/author/developmentthemebubble/page/1/ to https://themebubble.com/demo/webify/creative/author/developmentthemebubble/
+12:20:46	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/npy0x4xew60.jpg (from https://themebubble.com/demo/webify/creative/2019/04/15/the-future-of-south-lies-in-secret/)
+12:20:47	Error: 	"Not Found" (404) at link https://webify-13e95.kxcdn.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/1zduwmlmya.jpg (from https://themebubble.com/demo/webify/creative/2019/04/13/hello/)
+12:20:47	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/food/page/1/
+12:20:48	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/tag/food/page/1/
+12:20:48	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/tag/food/page/1/ to https://themebubble.com/demo/webify/creative/tag/food/
+12:20:49	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/workspace/page/1/
+12:20:50	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/tag/workspace/page/1/
+12:20:50	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/tag/workspace/page/1/ to https://themebubble.com/demo/webify/creative/tag/workspace/
+12:20:50	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/2019/04/13/hello/feed/
+12:20:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/themes/webify/assets/img/error-bg.jpg (from https://themebubble.com/demo/webify/creative/)
+12:20:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/cache/busting/8/demo/webify/creative/wp-includes/js/jquery/jquery.min-3.6.0.js (from https://themebubble.com/demo/webify/creative/)
+12:20:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:20:53	Error: 	"Forbidden" (403) at link https://themebubble.com/demo/webify/creative/wp-includes/wlwmanifest.xml (from https://themebubble.com/demo/webify/creative/)
+12:20:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/portfolio/sony-camera-website/ (from https://themebubble.com/demo/webify/creative/)
+12:20:53	Warning: 	HTML file (48750 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/portfolio/sony-camera-website/
+12:20:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/hcfwew744z4-570x392.jpg (from https://themebubble.com/demo/webify/creative/)
+12:20:57	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-content/cache/min/8/59f3e7842e271062a01be4842bb564d2.css (from https://themebubble.com/demo/webify/creative/about/)
+12:20:57	Warning: 	Moved Permanently for https://themebubble.com/demo/webify/creative/?p=574
+12:20:57	Warning: 	File has moved from https://themebubble.com/demo/webify/creative/?p=574 to https://themebubble.com/demo/webify/creative/about/
+12:20:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://themebubble.com/demo/webify/creative/wp-content/themes/webify/assets/css/img/drag.png (from https://themebubble.com/demo/webify/creative/wp-content/cache/min/8/c3a0d9df4e327d23cc40decce7855cd0.css)
+12:20:57	Warning: 	Moved Permanently for themebubble.com/demo/webify/wp-content/uploads/2019/03/1_c3smUiyEjXRXkPBCfLbwwA.gif
+12:20:57	Warning: 	Redirected link is identical because of 'URL Hack' option: themebubble.com/demo/webify/wp-content/uploads/2019/03/1_c3smUiyEjXRXkPBCfLbwwA.gif and https://themebubble.com/demo/webify/wp-content/uploads/2019/03/1_c3smUiyEjXRXkPBCfLbwwA.gif
+12:20:57	Warning: 	Warning moved treated for themebubble.com/demo/webify/wp-content/uploads/2019/03/1_c3smUiyEjXRXkPBCfLbwwA.gif (real one is https://themebubble.com/demo/webify/wp-content/uploads/2019/03/1_c3smUiyEjXRXkPBCfLbwwA.gif)
+12:20:57	Warning: 	Moved Permanently for themebubble.com/demo/webify/wp-content/uploads/2019/03/c.png
+12:20:57	Warning: 	Redirected link is identical because of 'URL Hack' option: themebubble.com/demo/webify/wp-content/uploads/2019/03/c.png and https://themebubble.com/demo/webify/wp-content/uploads/2019/03/c.png
+12:20:57	Warning: 	Warning moved treated for themebubble.com/demo/webify/wp-content/uploads/2019/03/c.png (real one is https://themebubble.com/demo/webify/wp-content/uploads/2019/03/c.png)
+12:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/212 (from https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/212)
+12:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/211 (from https://themebubble.com/demo/webify/creative/2019/04/15/smashing-dreams-more-of-it/)
+12:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themebubble.com/demo/webify/creative/tag/food/page/2/ (from https://themebubble.com/demo/webify/creative/tag/food/)
+12:20:57	Warning: 	HTML file (37287 bytes) retransferred due to lack of cache: https://themebubble.com/demo/webify/creative/tag/food/page/2/
+12:20:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/wp-content/cache/busting/8/demo/webify/creative/wp-includes/js/jquery/jquery.min-3.6.0.js (from https://themebubble.com/demo/webify/creative/)
+12:21:00	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/xmlrpc.php?rsd (from https://themebubble.com/demo/webify/creative/)
+12:21:00	Error: 	"Incorrect length (32416 Bytes, 66941 expected)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/wp-content/uploads/sites/8/2019/04/hcfwew744z4-570x392.jpg (from https://themebubble.com/demo/webify/creative/)
+12:21:00	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/wp-content/cache/min/8/59f3e7842e271062a01be4842bb564d2.css (from https://themebubble.com/demo/webify/creative/about/)
+12:21:00	Warning: 	Retry after error 500 () at link https://themebubble.com/demo/webify/creative/wp-content/themes/webify/assets/css/img/drag.png (from https://themebubble.com/demo/webify/creative/wp-content/cache/min/8/c3a0d9df4e327d23cc40decce7855cd0.css)
+12:21:00	Error: 	"" (500) after 2 retries at link https://themebubble.com/demo/webify/creative/wp-content/themes/webify/assets/css/img/drag.png (from https://themebubble.com/demo/webify/creative/wp-content/cache/min/8/c3a0d9df4e327d23cc40decce7855cd0.css)
+12:21:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/211 (from https://themebubble.com/demo/webify/creative/wp-json/wp/v2/posts/211)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 45 seconds : 359 links scanned, 302 files written (28998296 bytes overall) [11145322 bytes received at 27519 bytes/sec], 22246064 bytes transferred using HTTP compression in 194 files, ratio 27%, 3.0 requests per connection
+(28 errors, 168 warnings, 0 messages)
